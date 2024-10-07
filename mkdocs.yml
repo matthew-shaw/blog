@@ -1,10 +1,9 @@
-copyright: Copyright &copy; 2024 Matthew Shaw
-edit_uri: edit/main/docs/
-repo_url: https://github.com/matthew-shaw/mkdocs
+copyright: "&copy; 2014-2024 Matthew Shaw. All rights reserved."
+repo_url: https://github.com/matthew-shaw/blog
 site_author: Matthew Shaw
-site_description: A pre-configured MkDocs Material site template
-site_name: MkDocs Template
-site_url: https://matthew-shaw.github.io/mkdocs
+site_description: Personal Blog
+site_name: Blog
+site_url: https://matthew-shaw.github.io/blog
 watch:
   - includes
 
@@ -15,11 +14,7 @@ validation:
   unrecognized_links: warn
 
 nav:
-  - Home:
-      - index.md
-      - tags.md
-  - Blog:
-      - blog/index.md
+  - tags.md
 
 theme:
   name: material
@@ -44,15 +39,12 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
   features:
-    - content.action.edit
-    - content.action.view
     - content.tooltips
     - navigation.footer
     - navigation.indexes
     - navigation.instant
     - navigation.instant.progress
     - navigation.sections
-    - navigation.tabs
     - navigation.top
     - search.highlight
     - search.share
@@ -60,12 +52,7 @@ theme:
 
 plugins:
   - blog:
-      blog_toc: true
-  - git-committers:
-      repository: matthew-shaw/mkdocs
-      branch: main
-  - git-revision-date-localized:
-      enable_creation_date: true
+      blog_dir: .
   - minify:
       minify_html: true
       minify_js: true

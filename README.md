@@ -1,1 +1,1 @@
-# MkDocs Template
+# MkDocs Blog

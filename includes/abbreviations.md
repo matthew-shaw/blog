@@ -1,1 +1,0 @@
-*[WWW]: World Wide Web
