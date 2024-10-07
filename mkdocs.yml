@@ -1,7 +1,6 @@
 copyright: "&copy; 2014-2024 Matthew Shaw. All rights reserved."
-repo_url: https://github.com/matthew-shaw/blog
 site_author: Matthew Shaw
-site_description: Personal Blog
+site_description: Personal blog
 site_name: Blog
 site_url: https://matthew-shaw.github.io/blog
 watch:
@@ -17,6 +16,8 @@ nav:
   - tags.md
 
 theme:
+  logo: assets/blog-solid.svg
+  favicon: assets/blog-solid.svg
   name: material
   palette:
     # Palette toggle for automatic mode
