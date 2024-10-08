@@ -16,29 +16,7 @@ nav:
   - tags.md
 
 theme:
-  logo: assets/blog-solid.svg
   favicon: assets/blog-solid.svg
-  name: material
-  palette:
-    # Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/brightness-auto
-        name: Switch to light mode
-
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to system preference
   features:
     - content.tooltips
     - navigation.footer
@@ -50,6 +28,36 @@ theme:
     - search.highlight
     - search.share
     - search.suggest
+  icon:
+    tag:
+      fitness: material/heart-pulse
+      mental-health: material/brain
+      weight-loss: material/scale-bathroom
+  language: en
+  logo: assets/blog-solid.svg
+  name: material
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
 
 plugins:
   - blog:
@@ -63,7 +71,7 @@ plugins:
       js_files:
         - javascripts/tablesort.js
   - rss:
-      match_path: "blog/posts/.*"
+      match_path: "posts/.*"
       date_from_meta:
         as_creation: date.created
         as_update: date.updated
@@ -76,6 +84,7 @@ markdown_extensions:
   - abbr
   - admonition
   - attr_list
+  - pymdownx.caret
   - pymdownx.details
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
@@ -88,20 +97,30 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tilde
   - tables
 
 extra:
   social:
     - icon: fontawesome/brands/bluesky
+      name: Bluesky
       link: https://bsky.app/profile/mash85.bsky.social
     - icon: fontawesome/brands/github
+      name: GitHub
       link: https://github.com/matthew-shaw
     - icon: fontawesome/brands/linkedin
+      name: LinkedIn
       link: https://www.linkedin.com/in/matthew-shaw
     - icon: fontawesome/brands/mastodon
+      name: Mastodon
       link: https://mastodon.me.uk/@mash
     - icon: fontawesome/brands/x-twitter
+      name: X
       link: https://x.com/MattShaw85
+  tags:
+    Fitness: fitness
+    Mental health: mental-health
+    Weight loss: weight-loss
 
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
