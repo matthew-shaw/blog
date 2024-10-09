@@ -16,7 +16,7 @@ nav:
   - tags.md
 
 theme:
-  favicon: assets/blog-solid.svg
+  favicon: assets/images/blog-solid.svg
   features:
     - content.tooltips
     - navigation.footer
@@ -34,7 +34,7 @@ theme:
       mental-health: material/brain
       weight-loss: material/scale-bathroom
   language: en
-  logo: assets/blog-solid.svg
+  logo: assets/images/blog-solid.svg
   name: material
   palette:
     # Palette toggle for automatic mode
@@ -62,6 +62,7 @@ theme:
 plugins:
   - blog:
       blog_dir: .
+  - glightbox
   - minify:
       minify_html: true
       minify_js: true
