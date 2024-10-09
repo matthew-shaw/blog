@@ -120,4 +120,4 @@ With no other data yet I can only make an informed guess at best (#NoEstimates :
 
 ## Let's go!
 
-I'll been keeping track of my progress week-by-week and sharing updates [in another post](fitness-progress.md).
+I'll been keeping track of my progress week-by-week and sharing updates [in this post](fitness-progress.md).
