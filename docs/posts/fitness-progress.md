@@ -22,10 +22,10 @@ See my [original post](fitness-journey.md) for what I'm trying to achieve and ho
 
 ## Projections
 
-| Goal  | Weight (kg) | Best case  | Worst case |
-|-------|-------------|------------|------------|
-| 1st   | 89.7        |  |  |
-| 2nd   | 85.2        |  |  |
+| Goal  | Weight (kg) | Best case  | Worst case | Actual |
+|-------|-------------|------------|------------|--------|
+| 1st   | 89.7        |  |  | 06/10/2024 |
+| 2nd   | 85.2        | 10/11/2024 | 15/12/2024 | |
 | 3rd   | 80.9        |  |  |
 | 4th   | 76.9        |  |  |
 | 5th   | 73.0        |  |  |
