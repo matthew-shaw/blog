@@ -104,3 +104,20 @@ Taking an average gives me a TDEE of 2240 kcal/day to maintain my starting weigh
 ## How long will it take?
 
 I want to reach and maintain my weight in my target range **by my 40th birthday**, which gives me just under a year to achieve it. If I plot a loss of between 0.4 kg and 0.9 kg per week you can see the cone I'm aiming to stay within:
+
+![Weight](../assets/images/weight-start.svg)
+
+With no other data yet I can only make an informed guess at best (#NoEstimates :wink:). As time goes on I'll be able to refine increasingly accurate projections based on empirical evidence and data. As a starting point though:
+
+| Goal  | Weight (kg) | Best case  | Worst case |
+|-------|-------------|------------|------------|
+| 1st   | 89.7        | 06/10/2024 | 24/11/2024 |
+| 2nd   | 85.2        | 10/11/2024 | 09/02/2025 |
+| 3rd   | 80.9        | 15/12/2024 | 27/04/2025 |
+| 4th   | 76.9        | 12/01/2025 | 06/07/2025 |
+| 5th   | 73.0        | 16/02/2025 | 07/09/2025 |
+| 6th   | 69.4        | 16/03/2025 | 09/11/2025 |
+
+## Let's go!
+
+I'll been keeping track of my progress week-by-week and sharing updates [in another post](fitness-progress.md).
