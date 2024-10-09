@@ -1,7 +1,7 @@
 ---
 draft: true
 date:
-  created: 2024-09-05
+  created: 2024-08-29
   updated: 2024-10-06
 authors:
   - mash
@@ -18,7 +18,7 @@ Tracking my ongoing progress towards my health and fitness goals.
 
 <!-- more -->
 
-See my [original blog post](fitness-journey.md) for what I'm trying to achieve and how I'm doing it.
+See my [original post](fitness-journey.md) for what I'm trying to achieve and how I'm doing it.
 
 ## Projections
 
@@ -33,6 +33,12 @@ See my [original blog post](fitness-journey.md) for what I'm trying to achieve a
 
 ## Weight
 
+![Weight](../assets/images/weight.svg)
+
 ## Composition
 
+![Composition](../assets/images/composition.svg)
+
 ## BMI
+
+![BMI](../assets/images/bmi.svg)
