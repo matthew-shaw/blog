@@ -25,9 +25,9 @@ I've recently turned 39, and whilst I don't have any particular qualms about hit
 
 I'm not happy with my body image, but more importantly my heath and fitness (both physical and mental) has suffered for some time while other aspects of my life have taken priority. I desperately don't want to lack the confidence to even take my shirt off on the beach, for fear of being _"that fat guy"_. I realise that sounds quite vain, but really I just don't want to let social anxiety keep me from enjoying life. So even though it's embarrasing, I know that admitting and accepting there's a problem is the first step:
 
-| Date       | Weight (kg) | Body fat |
-| ---------- | ----------- | -------- |
-| 29/08/2024 | 94.4        | 38.3%    |
+| Date     | Weight (kg) | Body fat |
+| -------- | ----------- | -------- |
+| 29/08/24 | 94.4        | 38.3%    |
 
 This is ground zero, the heaviest and probably the most unfit I have ever been. At least I know this the worst it's going to get.
 
@@ -109,14 +109,14 @@ I want to reach and maintain my weight in my target range **by my 40th birthday*
 
 With no other data yet I can only make an informed guess at best (#NoEstimates :wink:). As time goes on I'll be able to refine increasingly accurate projections based on empirical evidence and data. As a starting point though:
 
-| Goal  | Weight (kg) | Best case  | Worst case |
-|-------|-------------|------------|------------|
-| 1st   | 89.7        | 06/10/2024 | 24/11/2024 |
-| 2nd   | 85.2        | 10/11/2024 | 09/02/2025 |
-| 3rd   | 80.9        | 15/12/2024 | 27/04/2025 |
-| 4th   | 76.9        | 12/01/2025 | 06/07/2025 |
-| 5th   | 73.0        | 16/02/2025 | 07/09/2025 |
-| 6th   | 69.4        | 16/03/2025 | 09/11/2025 |
+| Goal | Weight (kg) | Best case | Worst case |
+| ---- | ----------- | --------- | ---------- |
+| 1st  | 89.7        | 06/10/24  | 24/11/24   |
+| 2nd  | 85.2        | 10/11/24  | 09/02/25   |
+| 3rd  | 80.9        | 15/12/24  | 27/04/25   |
+| 4th  | 76.9        | 12/01/25  | 06/07/25   |
+| 5th  | 73.0        | 16/02/25  | 07/09/25   |
+| 6th  | 69.4        | 16/03/25  | 09/11/25   |
 
 ## Let's go!
 
