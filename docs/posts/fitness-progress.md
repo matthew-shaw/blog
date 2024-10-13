@@ -33,6 +33,7 @@ See my [original post](fitness-journey.md) for what I'm trying to achieve and ho
     | 22/09/24 | 91.9        | -1.2            | -2.5       |
     | 29/09/24 | 90.4        | -1.5            | -4.0       |
     | 06/10/24 | 89.1        | -1.3            | -5.3       |
+    | 13/10/24 | 89.3        | +0.2            | -5.1       |
 
 ## Composition
 
@@ -48,6 +49,7 @@ See my [original post](fitness-journey.md) for what I'm trying to achieve and ho
     | 22/09/24 | 36.6%    | 58.3           | 33.6          |
     | 29/09/24 | 35.5%    | 58.3           | 32.1          |
     | 06/10/24 | 34.3%    | 58.5           | 30.6          |
+    | 13/10/24 | 34.6%    | 58.4           | 30.9          |
 
 ## BMI
 
@@ -63,6 +65,7 @@ See my [original post](fitness-journey.md) for what I'm trying to achieve and ho
     | 22/09/24 | 31.1 |
     | 29/09/24 | 30.6 |
     | 06/10/24 | 30.1 |
+    | 13/10/24 | 30.2 |
 
 ## Exercise
 
@@ -78,6 +81,7 @@ See my [original post](fitness-journey.md) for what I'm trying to achieve and ho
     | 3    | 2:21:00  |
     | 4    | 4:26:00  |
     | 5    | 2:18:00  |
+    | 6    | 4:05:00  |
 
 ## Resting heart rate
 
@@ -93,6 +97,7 @@ See my [original post](fitness-journey.md) for what I'm trying to achieve and ho
     | 3    | 66                 |
     | 4    | 63                 |
     | 5    | 61                 |
+    | 6    | 61                 |
 
 ## Goals
 
@@ -100,11 +105,11 @@ See my [original post](fitness-journey.md) for what I'm trying to achieve and ho
 
 | Goal | Weight (kg) | Best case | Worst case |
 | ---- | ----------- | --------- | ---------- |
-| 2nd  | 85.2        | 10/11/24  | 15/12/24   |
-| 3rd  | 80.9        | 15/12/24  | 02/03/25   |
-| 4th  | 76.9        | 12/01/25  | 11/05/25   |
-| 5th  | 73.0        | 09/02/25  | 20/07/25   |
-| 6th  | 69.4        | 09/03/25  | 21/09/25   |
+| 2nd  | 85.2        | 17/11/24  | 29/12/24   |
+| 3rd  | 80.9        | 22/12/24  | 09/03/25   |
+| 4th  | 76.9        | 19/01/25  | 18/05/25   |
+| 5th  | 73.0        | 23/02/25  | 27/07/25   |
+| 6th  | 69.4        | 23/03/25  | 28/09/25   |
 
 ### Completed
 
