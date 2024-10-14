@@ -1,7 +1,6 @@
 copyright: "&copy; 2014-2024 Matthew Shaw. All rights reserved."
 site_author: Matthew Shaw
-site_description: Personal blog
-site_name: Blog
+site_name: Matt's Blog
 site_url: https://matthew-shaw.github.io/blog
 watch:
   - includes
@@ -46,7 +45,6 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: black
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -54,7 +52,6 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: black
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
